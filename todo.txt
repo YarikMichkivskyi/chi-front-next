@@ -1,0 +1,2 @@
+- hide add-comments button for unauthorized
+- eslint настроить с приттиер
